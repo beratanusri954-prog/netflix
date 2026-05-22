@@ -1,0 +1,501 @@
+Show_ID,Title,Type,Country,Release_Year,Duration,Genre,IMDb_Rating,Views_Millions,Age_Rating,Is_Hit
+S001,Dark ,Movie,UK,2018,97 min,Action,8.3,125.7,18+,Yes
+S002,Sacred Games Returns,Movie,USA,2016,107 min,Comedy,6,84.2,18+,No
+S003,Extraction Returns,Series,India,2024,3 Seasons,Comedy,8.6,43.8,13+,No
+S004,Kota Factory 3,Movie,India,2020,93 min,Drama,5.4,34.8,16+,No
+S005,Queen's Gambit 3,Series,USA,2023,1 Seasons,Documentary,9.4,100.4,18+,Yes
+S006,Emily in Paris Returns,Movie,UK,2016,85 min,Documentary,8,132.8,13+,Yes
+S007,Wednesday ,Series,UK,2020,2 Seasons,Comedy,6.7,54.6,16+,No
+S008,Sacred Games Returns,Movie,India,2017,139 min,Action,6.7,132.9,18+,No
+S009,Narcos 2,Movie,UK,2018,84 min,Action,8.6,94.8,13+,Yes
+S010,Extraction Returns,Movie,UK,2022,130 min,Action,9,131.8,13+,Yes
+S011,Ludo 2,Series,Germany,2024,4 Seasons,Sci-Fi,9,98.9,13+,Yes
+S012,Squid Game Returns,Movie,USA,2016,99 min,Comedy,7.8,131.7,16+,Yes
+S013,Queen's Gambit ,Series,Spain,2023,3 Seasons,Comedy,9.4,168.4,13+,Yes
+S014,Dark Returns,Series,UK,2016,3 Seasons,Documentary,7,82.6,18+,No
+S015,Ludo Returns,Movie,India,2019,144 min,Documentary,7.7,56.2,13+,No
+S016,Narcos Returns,Series,South Korea,2022,1 Seasons,Thriller,5.5,57.4,16+,No
+S017,Wednesday ,Movie,South Korea,2016,142 min,Sci-Fi,8.7,171.1,18+,Yes
+S018,Squid Game 2,Movie,Spain,2019,147 min,Action,8.9,101,13+,Yes
+S019,Narcos 2,Series,UK,2020,4 Seasons,Action,9,106,13+,Yes
+S020,Wednesday ,Movie,USA,2024,108 min,Drama,5,78.1,13+,No
+S021,Wednesday ,Series,France,2016,5 Seasons,Thriller,6.1,91.7,13+,No
+S022,Narcos 2,Series,South Korea,2018,4 Seasons,Action,8.6,67.6,13+,Yes
+S023,Kota Factory 3,Series,Spain,2015,1 Seasons,Comedy,5.3,84.4,13+,No
+S024,Wednesday 2,Series,South Korea,2017,4 Seasons,Sci-Fi,5.8,69.2,13+,No
+S025,Jawan Returns,Movie,USA,2016,110 min,Thriller,5.7,70,13+,No
+S026,Enola Holmes ,Movie,Spain,2021,113 min,Sci-Fi,9.2,154.3,16+,Yes
+S027,Kota Factory Returns,Series,Germany,2017,2 Seasons,Action,6.3,123,18+,No
+S028,Narcos ,Movie,UK,2015,141 min,Action,7.3,129.9,13+,No
+S029,Money Heist Returns,Movie,France,2016,88 min,Thriller,8,68.2,13+,Yes
+S030,Delhi Crime 2,Movie,South Korea,2024,90 min,Romance,6.9,94.9,18+,No
+S031,The Crown 3,Series,Germany,2018,3 Seasons,Sci-Fi,6.8,102.5,16+,No
+S032,Jawan 3,Movie,USA,2022,92 min,Documentary,5.3,43.4,16+,No
+S033,Squid Game 3,Series,India,2019,2 Seasons,Thriller,7,92,16+,No
+S034,Queen's Gambit Returns,Series,Germany,2016,2 Seasons,Thriller,6.2,113.7,18+,No
+S035,Narcos 2,Movie,UK,2020,106 min,Drama,8.1,144.1,18+,Yes
+S036,Lucifer 3,Movie,USA,2021,115 min,Documentary,5.2,52,13+,No
+S037,Ludo 2,Series,Spain,2023,1 Seasons,Action,5.5,105.5,18+,No
+S038,Squid Game Returns,Series,France,2024,5 Seasons,Thriller,5.7,39.4,16+,No
+S039,Darlings ,Movie,India,2016,125 min,Drama,8.5,155.2,16+,Yes
+S040,Queen's Gambit 2,Movie,France,2017,132 min,Sci-Fi,5.1,81.8,16+,No
+S041,Kota Factory 2,Movie,India,2021,84 min,Drama,8.9,74.2,16+,Yes
+S042,Darlings 3,Movie,France,2018,83 min,Documentary,8,87.8,16+,Yes
+S043,Sacred Games 3,Series,Germany,2023,3 Seasons,Drama,9.2,61.9,16+,Yes
+S044,Bridgerton Returns,Movie,USA,2024,135 min,Drama,6.6,110.9,16+,No
+S045,Queen's Gambit Returns,Movie,Spain,2019,85 min,Thriller,8.2,41.2,18+,No
+S046,Extraction 3,Series,USA,2024,3 Seasons,Comedy,8,55,16+,No
+S047,The Witcher 3,Series,Spain,2021,3 Seasons,Action,7.5,59.1,18+,No
+S048,Enola Holmes 2,Series,South Korea,2021,5 Seasons,Romance,8.8,84.1,13+,Yes
+S049,Kota Factory Returns,Series,Germany,2022,4 Seasons,Romance,7,57.4,16+,No
+S050,Bridgerton ,Series,South Korea,2016,2 Seasons,Drama,8,67,13+,Yes
+S051,Squid Game ,Series,India,2024,1 Seasons,Thriller,7,128,18+,No
+S052,Extraction Reborn,Movie,Spain,2017,80 min,Comedy,9,161.2,13+,Yes
+S053,Kota Factory 2,Series,France,2015,5 Seasons,Sci-Fi,6.1,108.1,16+,No
+S054,Squid Game Reborn,Series,South Korea,2022,5 Seasons,Action,8.7,159.9,16+,Yes
+S055,Narcos Reborn,Series,Germany,2022,3 Seasons,Sci-Fi,8.4,147.8,16+,Yes
+S056,The Witcher Reborn,Series,India,2022,1 Seasons,Action,8.2,69.8,16+,Yes
+S057,The Crown Returns,Movie,India,2018,129 min,Thriller,8.1,126.3,13+,Yes
+S058,Kota Factory Reborn,Series,South Korea,2021,1 Seasons,Drama,5.9,66.7,18+,No
+S059,Stranger Things Returns,Movie,Spain,2020,118 min,Comedy,8.4,149.5,16+,Yes
+S060,Narcos Returns,Movie,South Korea,2022,108 min,Documentary,6.2,76.2,16+,No
+S061,The Crown Reborn,Series,India,2017,5 Seasons,Action,7.4,137.7,18+,No
+S062,Delhi Crime ,Series,Germany,2017,4 Seasons,Thriller,5.8,51.6,16+,No
+S063,Extraction Reborn,Series,UK,2019,4 Seasons,Drama,6.1,38,13+,No
+S064,Narcos ,Movie,India,2015,83 min,Drama,9.3,74.3,13+,Yes
+S065,Queen's Gambit 2,Series,India,2016,5 Seasons,Sci-Fi,9.3,111.4,16+,Yes
+S066,Darlings 2,Movie,South Korea,2017,119 min,Romance,5.5,29.6,16+,No
+S067,Delhi Crime Reborn,Movie,Germany,2016,111 min,Comedy,5.5,91.2,18+,No
+S068,Queen's Gambit ,Movie,South Korea,2020,148 min,Documentary,6.9,72.9,18+,No
+S069,The Crown ,Series,Spain,2016,4 Seasons,Documentary,9.3,135.2,16+,Yes
+S070,Squid Game Reborn,Series,Germany,2024,5 Seasons,Sci-Fi,8.5,101.8,18+,Yes
+S071,Delhi Crime 3,Movie,France,2016,115 min,Drama,9,77.9,16+,Yes
+S072,Delhi Crime Returns,Series,Spain,2015,4 Seasons,Action,8.8,68,13+,Yes
+S073,Darlings 3,Series,UK,2023,1 Seasons,Drama,7.3,57.4,13+,No
+S074,Kota Factory Reborn,Movie,France,2022,142 min,Romance,7,36.8,16+,No
+S075,Wednesday Reborn,Series,India,2024,3 Seasons,Action,7.1,92,16+,No
+S076,Narcos 3,Series,Germany,2019,3 Seasons,Drama,6.1,41.5,13+,No
+S077,The Crown ,Movie,South Korea,2018,107 min,Action,8.3,75.9,18+,Yes
+S078,The Witcher Returns,Movie,USA,2019,109 min,Drama,6.6,62.9,18+,No
+S079,Narcos 2,Movie,USA,2023,117 min,Drama,8.1,55.8,16+,No
+S080,Dark ,Series,UK,2022,4 Seasons,Romance,6.5,126.6,16+,No
+S081,Lucifer ,Series,USA,2022,1 Seasons,Documentary,7.6,116.3,13+,Yes
+S082,Squid Game Returns,Movie,USA,2016,133 min,Drama,7.7,129.8,13+,Yes
+S083,The Witcher Reborn,Series,Spain,2024,4 Seasons,Comedy,6.4,91.6,18+,No
+S084,Dark 2,Series,India,2016,2 Seasons,Action,6.1,81,13+,No
+S085,Stranger Things Reborn,Series,Germany,2019,1 Seasons,Comedy,6,93.6,18+,No
+S086,Jawan ,Series,India,2024,2 Seasons,Action,6.9,90.9,18+,No
+S087,Squid Game 3,Movie,India,2015,101 min,Documentary,8.6,119.8,18+,Yes
+S088,Emily in Paris Reborn,Series,Spain,2021,3 Seasons,Thriller,7.3,90.6,13+,No
+S089,Queen's Gambit ,Series,Germany,2024,3 Seasons,Comedy,5.1,43,18+,No
+S090,Delhi Crime Returns,Series,France,2024,1 Seasons,Thriller,8.4,64.1,18+,Yes
+S091,Jawan 3,Series,South Korea,2022,1 Seasons,Sci-Fi,7.1,79,16+,No
+S092,Dark 2,Series,Spain,2019,4 Seasons,Drama,8.7,115.3,16+,Yes
+S093,Sacred Games 3,Movie,UK,2021,145 min,Drama,8.7,43.7,18+,No
+S094,Jawan Reborn,Series,India,2024,4 Seasons,Thriller,7.8,127.9,13+,Yes
+S095,Ludo Returns,Series,UK,2022,1 Seasons,Sci-Fi,5.1,73.7,13+,No
+S096,Bridgerton 3,Series,USA,2016,2 Seasons,Romance,9.5,177.6,16+,Yes
+S097,Dark 2,Series,Germany,2023,3 Seasons,Comedy,6.9,84.4,16+,No
+S098,Wednesday Reborn,Series,India,2018,5 Seasons,Romance,7.3,132.8,13+,No
+S099,Ludo Reborn,Series,France,2015,3 Seasons,Drama,8.3,145.8,18+,Yes
+S100,Lucifer 2,Series,South Korea,2020,3 Seasons,Comedy,7.5,98.6,16+,Yes
+S101,The Crown 2,Series,India,2018,4 Seasons,Action,5.2,84.1,18+,No
+S102,Enola Holmes Reborn,Movie,France,2022,84 min,Action,5.6,109.1,16+,No
+S103,Dark Reborn,Series,South Korea,2015,2 Seasons,Thriller,6.8,100.8,13+,No
+S104,Sacred Games Reborn,Series,UK,2024,4 Seasons,Documentary,7.9,140.4,18+,Yes
+S105,Narcos Reborn,Series,Germany,2023,1 Seasons,Drama,7.8,66.5,18+,Yes
+S106,Emily in Paris 2,Series,USA,2016,1 Seasons,Action,7,107.9,13+,No
+S107,Money Heist 3,Series,USA,2020,3 Seasons,Documentary,6.9,59.8,16+,No
+S108,Delhi Crime 2,Movie,India,2024,128 min,Sci-Fi,7.8,67.2,18+,Yes
+S109,Squid Game 2,Series,Germany,2022,3 Seasons,Comedy,8,147.9,16+,Yes
+S110,Emily in Paris Returns,Series,USA,2020,5 Seasons,Sci-Fi,6.3,122.4,18+,No
+S111,Ludo Reborn,Movie,UK,2021,141 min,Documentary,5.5,59,16+,No
+S112,Delhi Crime 3,Movie,UK,2021,115 min,Action,5,89.9,18+,No
+S113,Money Heist Returns,Series,Spain,2018,5 Seasons,Action,8.6,71.3,13+,Yes
+S114,Queen's Gambit 3,Movie,France,2016,85 min,Action,6.4,74.3,18+,No
+S115,Darlings 2,Series,UK,2021,2 Seasons,Thriller,5.9,99.1,16+,No
+S116,The Witcher Returns,Movie,France,2019,141 min,Drama,9.4,88.6,16+,Yes
+S117,Dark Reborn,Movie,India,2021,126 min,Thriller,5.4,59,16+,No
+S118,Narcos ,Series,UK,2024,4 Seasons,Comedy,8.7,166.2,13+,Yes
+S119,Wednesday Reborn,Series,South Korea,2024,2 Seasons,Thriller,7.9,114.8,16+,Yes
+S120,Emily in Paris Reborn,Movie,India,2015,118 min,Thriller,9.5,64,13+,Yes
+S121,Narcos 2,Series,Spain,2023,4 Seasons,Comedy,7.6,120.8,16+,Yes
+S122,Dark Reborn,Series,Spain,2015,3 Seasons,Romance,6,70,13+,No
+S123,Darlings ,Series,UK,2015,4 Seasons,Action,6.2,121,16+,No
+S124,Sacred Games 2,Movie,Germany,2015,122 min,Action,6.1,42,18+,No
+S125,Extraction ,Movie,France,2024,107 min,Documentary,8.7,73.9,13+,Yes
+S126,Queen's Gambit ,Movie,France,2017,149 min,Drama,6.1,46.5,18+,No
+S127,Stranger Things 2,Movie,UK,2024,121 min,Thriller,5.1,45.8,13+,No
+S128,Kota Factory Returns,Movie,Germany,2022,137 min,Thriller,8.5,107.9,13+,Yes
+S129,Jawan Returns,Movie,South Korea,2023,118 min,Sci-Fi,7.1,138.2,13+,No
+S130,Lucifer Reborn,Movie,Germany,2022,136 min,Comedy,5.3,32.9,18+,No
+S131,Squid Game ,Series,UK,2021,5 Seasons,Sci-Fi,7.4,87.4,18+,No
+S132,Kota Factory ,Movie,Germany,2023,107 min,Documentary,6.9,126.4,16+,No
+S133,The Crown Reborn,Movie,Spain,2020,134 min,Comedy,6.4,56.5,13+,No
+S134,Lucifer ,Movie,France,2016,135 min,Thriller,5.4,86.8,13+,No
+S135,Narcos ,Series,South Korea,2016,4 Seasons,Romance,6.6,98.9,16+,No
+S136,Money Heist 3,Series,UK,2016,5 Seasons,Romance,7.3,53.4,16+,No
+S137,Wednesday ,Series,France,2016,3 Seasons,Drama,7.6,130,18+,Yes
+S138,Queen's Gambit Returns,Movie,Germany,2024,114 min,Action,5.1,46.4,16+,No
+S139,The Crown 3,Movie,India,2024,131 min,Thriller,5.3,85.4,13+,No
+S140,Sacred Games Returns,Series,Spain,2022,3 Seasons,Sci-Fi,5.7,55.1,16+,No
+S141,Delhi Crime Returns,Movie,USA,2017,86 min,Thriller,8,72.7,18+,Yes
+S142,Kota Factory Reborn,Series,Spain,2019,2 Seasons,Romance,8.4,56.3,16+,No
+S143,Dark 3,Series,Germany,2023,3 Seasons,Action,5.2,56.8,18+,No
+S144,Money Heist ,Movie,UK,2017,112 min,Sci-Fi,6.3,42.8,16+,No
+S145,Kota Factory 2,Movie,Spain,2023,125 min,Sci-Fi,5.3,95,13+,No
+S146,Kota Factory ,Series,USA,2024,4 Seasons,Comedy,7.6,118.9,16+,Yes
+S147,Emily in Paris ,Series,USA,2017,5 Seasons,Comedy,7.1,108.9,16+,No
+S148,Sacred Games Reborn,Movie,USA,2021,131 min,Documentary,7.4,80.9,16+,No
+S149,The Crown 2,Movie,France,2016,145 min,Drama,7.8,101.1,13+,Yes
+S150,Darlings 3,Movie,France,2018,93 min,Action,5.7,45.4,18+,No
+S151,Squid Game ,Series,France,2022,5 Seasons,Sci-Fi,8.4,98.6,18+,Yes
+S152,Queen's Gambit 3,Series,Germany,2017,4 Seasons,Documentary,5.3,61.7,16+,No
+S153,Ludo Returns,Movie,UK,2019,139 min,Thriller,7,41,16+,No
+S154,Sacred Games ,Series,South Korea,2022,5 Seasons,Romance,7.5,126.6,13+,Yes
+S155,Jawan Returns,Series,India,2024,4 Seasons,Action,7.3,141.4,16+,No
+S156,Dark 3,Movie,USA,2015,111 min,Action,8.2,162.9,18+,Yes
+S157,The Witcher Returns,Series,UK,2019,4 Seasons,Sci-Fi,6.8,68.5,18+,No
+S158,Money Heist 3,Movie,UK,2023,129 min,Thriller,6.3,99.9,18+,No
+S159,Queen's Gambit 2,Movie,USA,2020,119 min,Drama,9.4,145.5,16+,Yes
+S160,Squid Game Returns,Series,USA,2023,4 Seasons,Action,7.9,78.4,13+,Yes
+S161,The Witcher ,Series,Germany,2023,3 Seasons,Action,5.1,49.1,13+,No
+S162,The Crown Reborn,Movie,India,2017,89 min,Sci-Fi,6.3,106,18+,No
+S163,Narcos Returns,Series,Germany,2024,2 Seasons,Thriller,7.7,56.3,13+,No
+S164,Queen's Gambit 2,Movie,Spain,2021,126 min,Action,8,68.5,16+,Yes
+S165,Queen's Gambit 3,Series,Germany,2018,5 Seasons,Documentary,6.1,118.9,16+,No
+S166,Extraction 3,Series,South Korea,2022,3 Seasons,Action,8.5,106.6,16+,Yes
+S167,Bridgerton 2,Movie,South Korea,2019,86 min,Documentary,7.9,143.1,18+,Yes
+S168,Dark Returns,Series,USA,2016,2 Seasons,Documentary,6.2,115.2,13+,No
+S169,Kota Factory ,Series,France,2020,1 Seasons,Sci-Fi,6.9,75.5,16+,No
+S170,Wednesday Reborn,Movie,UK,2015,120 min,Thriller,9.2,161.8,18+,Yes
+S171,The Crown 2,Series,USA,2022,2 Seasons,Sci-Fi,8.4,101.1,18+,Yes
+S172,Stranger Things ,Movie,UK,2017,150 min,Thriller,9.2,130,16+,Yes
+S173,Dark 3,Movie,UK,2015,110 min,Sci-Fi,6.9,116.7,16+,No
+S174,Sacred Games ,Movie,Spain,2023,110 min,Documentary,8.2,76.8,13+,Yes
+S175,Queen's Gambit 3,Series,South Korea,2017,1 Seasons,Sci-Fi,7.4,77,18+,No
+S176,Narcos Returns,Movie,South Korea,2021,140 min,Documentary,5.2,56.2,16+,No
+S177,Ludo ,Movie,France,2020,110 min,Drama,8.3,119.7,18+,Yes
+S178,The Crown 2,Series,UK,2017,4 Seasons,Thriller,9.4,114.5,13+,Yes
+S179,Squid Game ,Series,France,2015,3 Seasons,Action,5.9,99.5,13+,No
+S180,The Crown 3,Series,Spain,2019,1 Seasons,Romance,8.4,66.1,16+,Yes
+S181,Money Heist 3,Series,USA,2021,4 Seasons,Drama,8.3,152.9,16+,Yes
+S182,The Crown 2,Series,Germany,2020,5 Seasons,Comedy,6.2,38.7,16+,No
+S183,Sacred Games Reborn,Movie,France,2023,117 min,Romance,6.4,39.7,18+,No
+S184,Emily in Paris 3,Series,South Korea,2017,4 Seasons,Comedy,6.6,37.2,16+,No
+S185,Queen's Gambit Reborn,Movie,Germany,2016,131 min,Drama,6.6,112.3,18+,No
+S186,Bridgerton ,Series,France,2015,2 Seasons,Sci-Fi,5.3,88.4,16+,No
+S187,Darlings Reborn,Movie,USA,2022,127 min,Romance,6.7,110.2,18+,No
+S188,Squid Game Returns,Series,Spain,2019,2 Seasons,Drama,9.3,50.1,13+,No
+S189,Lucifer Returns,Movie,South Korea,2019,113 min,Comedy,8.2,67.4,18+,Yes
+S190,Emily in Paris Reborn,Movie,USA,2016,137 min,Sci-Fi,5.8,91.1,13+,No
+S191,The Crown 3,Series,USA,2019,2 Seasons,Action,8.2,155.1,18+,Yes
+S192,Bridgerton 3,Movie,India,2018,97 min,Romance,6.1,75.7,16+,No
+S193,Narcos Returns,Movie,Spain,2024,91 min,Drama,5.3,58.2,18+,No
+S194,Lucifer Returns,Series,France,2024,1 Seasons,Comedy,5.6,54.6,13+,No
+S195,Jawan Reborn,Series,South Korea,2017,5 Seasons,Action,7.9,61.1,13+,Yes
+S196,Kota Factory Returns,Movie,USA,2023,99 min,Documentary,6.4,47.5,18+,No
+S197,Wednesday 3,Movie,UK,2019,105 min,Romance,7.9,104.8,13+,Yes
+S198,Emily in Paris Returns,Movie,USA,2024,99 min,Romance,5.8,83.3,18+,No
+S199,The Crown Returns,Movie,France,2016,85 min,Thriller,9.3,154.1,16+,Yes
+S200,Extraction Returns,Movie,South Korea,2022,149 min,Comedy,6.3,121.9,16+,No
+S201,Wednesday Reborn,Movie,Spain,2015,100 min,Drama,7,85.8,13+,No
+S202,The Crown Returns,Series,UK,2020,4 Seasons,Sci-Fi,5.6,59.1,18+,No
+S203,Dark 3,Movie,Spain,2019,137 min,Sci-Fi,6.1,39.4,16+,No
+S204,Enola Holmes Returns,Movie,India,2020,120 min,Comedy,5.9,43.6,18+,No
+S205,Jawan Reborn,Movie,Spain,2016,130 min,Drama,7.3,142.4,13+,No
+S206,Delhi Crime 3,Series,USA,2022,5 Seasons,Thriller,9,133.3,16+,Yes
+S207,Emily in Paris Returns,Movie,France,2021,97 min,Thriller,9,143.2,16+,Yes
+S208,Darlings ,Movie,USA,2020,150 min,Comedy,6.3,68,16+,No
+S209,Narcos 3,Movie,South Korea,2017,92 min,Documentary,6.8,115.1,16+,No
+S210,Narcos 3,Movie,India,2024,145 min,Documentary,6.8,38.1,13+,No
+S211,Squid Game 3,Series,Spain,2017,5 Seasons,Documentary,9,63.9,18+,Yes
+S212,The Crown 2,Series,South Korea,2024,3 Seasons,Comedy,7.3,92.3,16+,No
+S213,Delhi Crime 3,Movie,France,2020,122 min,Comedy,8,157.6,18+,Yes
+S214,Emily in Paris ,Series,Spain,2024,5 Seasons,Romance,6,34.6,16+,No
+S215,Bridgerton Returns,Series,Germany,2017,2 Seasons,Action,5.1,98,13+,No
+S216,Extraction ,Series,UK,2017,4 Seasons,Comedy,8.1,90.4,18+,Yes
+S217,Lucifer ,Movie,India,2023,121 min,Action,9.5,115.7,16+,Yes
+S218,The Crown 2,Series,South Korea,2023,3 Seasons,Comedy,8,144.1,18+,Yes
+S219,Ludo Returns,Movie,India,2019,118 min,Comedy,6,117.6,16+,No
+S220,Emily in Paris 2,Series,Germany,2020,4 Seasons,Action,6.6,125.4,18+,No
+S221,Ludo 3,Series,South Korea,2021,3 Seasons,Thriller,9.3,158.7,16+,Yes
+S222,Money Heist 3,Series,USA,2022,3 Seasons,Action,8.4,69,18+,Yes
+S223,Ludo Returns,Movie,UK,2016,110 min,Action,6.1,91.8,18+,No
+S224,Wednesday 2,Series,USA,2020,4 Seasons,Thriller,5.5,91.1,13+,No
+S225,Narcos 2,Series,Germany,2022,2 Seasons,Comedy,8.4,78.2,16+,Yes
+S226,Money Heist ,Movie,South Korea,2023,84 min,Action,9.1,69.4,13+,Yes
+S227,Money Heist Reborn,Movie,Spain,2019,84 min,Documentary,5,67.6,13+,No
+S228,The Crown 3,Series,Germany,2017,5 Seasons,Comedy,7.1,56,13+,No
+S229,The Crown 2,Series,Spain,2017,1 Seasons,Action,8.3,140,18+,Yes
+S230,Extraction 2,Series,France,2021,5 Seasons,Romance,6.5,71.6,13+,No
+S231,Bridgerton 2,Movie,UK,2015,113 min,Comedy,6.7,78.4,16+,No
+S232,The Crown 3,Movie,Germany,2019,126 min,Romance,8.1,48,13+,No
+S233,Jawan 3,Series,Spain,2016,3 Seasons,Sci-Fi,6.7,55.7,13+,No
+S234,Lucifer 2,Series,Germany,2021,5 Seasons,Comedy,9.1,148.9,18+,Yes
+S235,Extraction 2,Movie,France,2023,137 min,Action,7.4,77.2,18+,No
+S236,Dark ,Movie,South Korea,2024,148 min,Documentary,5.7,56.6,18+,No
+S237,Jawan ,Series,India,2016,5 Seasons,Action,7,40.8,13+,No
+S238,The Witcher Reborn,Movie,South Korea,2023,139 min,Comedy,8,77,13+,Yes
+S239,Enola Holmes 3,Movie,USA,2024,89 min,Documentary,5.2,52.9,13+,No
+S240,Narcos ,Movie,Spain,2019,132 min,Thriller,5.8,40.8,18+,No
+S241,Kota Factory 3,Series,Spain,2021,1 Seasons,Comedy,8.1,120.9,18+,Yes
+S242,Squid Game 3,Series,India,2023,2 Seasons,Thriller,8.3,69.2,13+,Yes
+S243,Stranger Things 3,Series,Germany,2023,4 Seasons,Comedy,8.7,75.8,16+,Yes
+S244,Squid Game 3,Movie,Germany,2015,133 min,Sci-Fi,7.8,148.5,13+,Yes
+S245,Wednesday 2,Movie,USA,2022,86 min,Thriller,6.1,34.5,16+,No
+S246,Wednesday Returns,Movie,France,2017,144 min,Sci-Fi,9.5,80.9,18+,Yes
+S247,Delhi Crime 3,Series,South Korea,2018,3 Seasons,Romance,8.9,176.1,18+,Yes
+S248,Wednesday Reborn,Movie,UK,2023,102 min,Drama,7.8,89,16+,Yes
+S249,Money Heist 3,Series,Germany,2023,3 Seasons,Action,8.1,90.1,16+,Yes
+S250,Enola Holmes 2,Series,South Korea,2018,2 Seasons,Documentary,6.4,99.9,16+,No
+S251,Money Heist Returns,Movie,Spain,2021,111 min,Comedy,6.1,60.7,13+,No
+S252,Jawan 3,Movie,South Korea,2015,114 min,Thriller,6.7,94.3,13+,No
+S253,Sacred Games 2,Movie,France,2022,106 min,Documentary,8.9,89,13+,Yes
+S254,Extraction 2,Series,USA,2018,5 Seasons,Action,8.2,89.8,13+,Yes
+S255,Narcos 3,Series,UK,2022,5 Seasons,Documentary,7.9,76,16+,Yes
+S256,The Witcher Reborn,Series,USA,2020,2 Seasons,Comedy,6.7,75.1,18+,No
+S257,Wednesday 2,Series,UK,2019,2 Seasons,Thriller,5.9,49.9,18+,No
+S258,Wednesday Reborn,Series,Germany,2019,4 Seasons,Romance,9.3,136,16+,Yes
+S259,Jawan 2,Series,France,2017,2 Seasons,Action,8.2,101.1,18+,Yes
+S260,Money Heist Returns,Movie,France,2015,80 min,Thriller,6.9,121.7,13+,No
+S261,Sacred Games 2,Series,India,2020,1 Seasons,Thriller,7.8,117,18+,Yes
+S262,Lucifer Reborn,Series,USA,2015,1 Seasons,Thriller,7.4,67.5,16+,No
+S263,Stranger Things Returns,Series,Germany,2017,1 Seasons,Documentary,9.1,117.1,13+,Yes
+S264,Extraction Returns,Series,UK,2019,4 Seasons,Romance,5.4,104.7,16+,No
+S265,Delhi Crime 2,Series,India,2016,1 Seasons,Action,5.4,57.7,18+,No
+S266,Lucifer ,Movie,USA,2016,143 min,Action,8.8,129.1,16+,Yes
+S267,Delhi Crime ,Movie,USA,2018,140 min,Romance,6.2,116.9,18+,No
+S268,Ludo Returns,Movie,Germany,2017,120 min,Romance,5.1,41.3,13+,No
+S269,Enola Holmes ,Movie,India,2024,129 min,Drama,8,104.9,16+,Yes
+S270,Squid Game ,Series,Germany,2015,1 Seasons,Romance,7,123.1,16+,No
+S271,Queen's Gambit Returns,Series,Spain,2015,3 Seasons,Romance,8.5,99.9,13+,Yes
+S272,Darlings Returns,Movie,Spain,2024,128 min,Comedy,5.4,77.1,13+,No
+S273,Sacred Games ,Series,India,2017,4 Seasons,Drama,6.4,42.2,13+,No
+S274,Emily in Paris Reborn,Series,France,2016,2 Seasons,Drama,5.4,61.9,18+,No
+S275,Narcos Returns,Movie,USA,2016,125 min,Comedy,7.5,104.7,16+,Yes
+S276,Enola Holmes ,Series,Spain,2016,5 Seasons,Drama,9.1,179,18+,Yes
+S277,The Witcher 2,Movie,Spain,2017,114 min,Action,6.4,79.3,13+,No
+S278,Bridgerton Reborn,Series,Spain,2022,1 Seasons,Drama,6.6,126.5,18+,No
+S279,Lucifer Returns,Series,India,2016,2 Seasons,Romance,6.4,123.1,16+,No
+S280,Queen's Gambit Reborn,Series,France,2022,3 Seasons,Documentary,6.9,119.7,18+,No
+S281,Queen's Gambit 2,Movie,UK,2022,120 min,Drama,5.8,63.6,16+,No
+S282,Emily in Paris Reborn,Movie,France,2020,128 min,Romance,6.3,105.8,16+,No
+S283,Dark Returns,Movie,South Korea,2023,83 min,Sci-Fi,9.3,110.9,18+,Yes
+S284,Extraction Reborn,Movie,UK,2021,143 min,Documentary,5.6,53.4,16+,No
+S285,Squid Game Reborn,Movie,Spain,2022,141 min,Documentary,7.6,98.9,18+,Yes
+S286,Kota Factory Returns,Series,France,2023,5 Seasons,Thriller,7.9,49.6,13+,No
+S287,Darlings 2,Movie,South Korea,2024,131 min,Action,9.4,93.8,16+,Yes
+S288,Dark ,Movie,UK,2023,146 min,Thriller,7.5,114.9,13+,Yes
+S289,Jawan 3,Movie,Spain,2020,83 min,Comedy,7.2,67.9,13+,No
+S290,Dark 2,Series,UK,2022,2 Seasons,Drama,7.3,74.6,13+,No
+S291,Jawan Reborn,Series,USA,2015,1 Seasons,Drama,5.1,51.7,13+,No
+S292,Bridgerton 2,Movie,India,2020,134 min,Romance,9.3,78.8,16+,Yes
+S293,Bridgerton 2,Series,Germany,2021,1 Seasons,Action,8.3,151.4,16+,Yes
+S294,Delhi Crime Reborn,Movie,USA,2018,115 min,Comedy,8.4,143.9,13+,Yes
+S295,Delhi Crime ,Movie,France,2020,121 min,Documentary,5.9,39.6,18+,No
+S296,Lucifer Returns,Series,UK,2024,4 Seasons,Action,7.6,77.7,16+,Yes
+S297,Queen's Gambit 2,Series,Germany,2024,5 Seasons,Documentary,5.4,37.8,13+,No
+S298,Wednesday 3,Series,India,2017,5 Seasons,Thriller,6.7,93.4,18+,No
+S299,Enola Holmes Reborn,Movie,Spain,2023,101 min,Sci-Fi,7.2,51.2,16+,No
+S300,Jawan Returns,Series,France,2015,4 Seasons,Thriller,5.6,96.5,18+,No
+S301,The Witcher Reborn,Series,Germany,2021,4 Seasons,Comedy,7.2,44.9,13+,No
+S302,Wednesday 3,Movie,UK,2023,116 min,Thriller,5.8,68.8,18+,No
+S303,Lucifer Returns,Movie,USA,2019,149 min,Romance,8.7,91.4,13+,Yes
+S304,Jawan Returns,Movie,Spain,2018,118 min,Sci-Fi,8.9,48.8,16+,No
+S305,Darlings ,Movie,France,2018,106 min,Comedy,8.6,118.8,16+,Yes
+S306,Queen's Gambit Reborn,Movie,South Korea,2018,106 min,Sci-Fi,8.6,116.5,18+,Yes
+S307,Ludo Returns,Series,India,2019,3 Seasons,Romance,7.6,146.6,18+,Yes
+S308,Dark 2,Series,France,2015,3 Seasons,Documentary,8.9,61.4,13+,Yes
+S309,Wednesday 2,Movie,UK,2021,142 min,Action,5.6,81.1,18+,No
+S310,Kota Factory Reborn,Movie,USA,2021,145 min,Comedy,8.4,129.5,16+,Yes
+S311,Jawan Reborn,Movie,South Korea,2016,138 min,Drama,7.9,122.1,13+,Yes
+S312,Narcos Reborn,Movie,Spain,2022,114 min,Sci-Fi,6.5,60.2,18+,No
+S313,Delhi Crime 2,Series,France,2020,1 Seasons,Romance,5.2,74.8,16+,No
+S314,Stranger Things ,Series,India,2022,1 Seasons,Documentary,9.5,108.5,18+,Yes
+S315,Squid Game 3,Series,France,2016,3 Seasons,Sci-Fi,6.1,64.5,18+,No
+S316,Bridgerton ,Series,Germany,2018,4 Seasons,Comedy,7.9,122.9,13+,Yes
+S317,Extraction Reborn,Movie,India,2023,136 min,Thriller,5,77.2,13+,No
+S318,Kota Factory 2,Movie,USA,2021,91 min,Comedy,8.3,54.3,16+,No
+S319,Darlings 3,Movie,Spain,2017,88 min,Sci-Fi,7.4,37.9,18+,No
+S320,Bridgerton Reborn,Movie,Germany,2017,132 min,Drama,7.8,90.8,13+,Yes
+S321,Sacred Games ,Movie,France,2024,129 min,Sci-Fi,6.6,75.5,13+,No
+S322,Wednesday 3,Movie,USA,2023,116 min,Action,8.5,130.5,18+,Yes
+S323,Emily in Paris 2,Movie,South Korea,2021,117 min,Romance,7.9,132.4,13+,Yes
+S324,Lucifer Reborn,Series,India,2024,1 Seasons,Thriller,7.4,145.5,16+,No
+S325,The Crown 2,Series,France,2020,5 Seasons,Comedy,8.1,133.2,13+,Yes
+S326,Stranger Things Returns,Series,USA,2018,1 Seasons,Thriller,9.2,176.9,16+,Yes
+S327,The Witcher 3,Series,Germany,2021,4 Seasons,Action,5.4,70.5,18+,No
+S328,Squid Game 3,Movie,UK,2023,106 min,Thriller,9.4,68.9,16+,Yes
+S329,Enola Holmes Returns,Movie,France,2019,135 min,Action,8.3,146.9,13+,Yes
+S330,Wednesday ,Series,USA,2024,5 Seasons,Comedy,5.2,78,18+,No
+S331,Bridgerton ,Movie,Germany,2015,100 min,Thriller,7.2,73.4,18+,No
+S332,Ludo 2,Series,India,2016,1 Seasons,Drama,6.5,74.4,18+,No
+S333,Sacred Games 3,Movie,South Korea,2022,138 min,Action,7.3,42.6,18+,No
+S334,Bridgerton 3,Movie,UK,2024,94 min,Sci-Fi,6,75.8,13+,No
+S335,Stranger Things 2,Series,Spain,2021,2 Seasons,Thriller,5.8,112.5,13+,No
+S336,Narcos Reborn,Movie,UK,2021,120 min,Sci-Fi,6.2,38.2,16+,No
+S337,Dark Returns,Movie,USA,2018,146 min,Action,9.4,181.5,13+,Yes
+S338,Jawan 3,Series,France,2020,1 Seasons,Documentary,7.5,38.4,13+,No
+S339,Emily in Paris Returns,Movie,UK,2022,127 min,Documentary,7.7,95.5,13+,Yes
+S340,Narcos 2,Series,USA,2015,2 Seasons,Sci-Fi,7.4,107.6,18+,No
+S341,Stranger Things 3,Series,France,2019,1 Seasons,Thriller,5.9,116.5,16+,No
+S342,Lucifer ,Series,Germany,2016,1 Seasons,Sci-Fi,9.1,168,18+,Yes
+S343,Kota Factory 3,Movie,Germany,2024,92 min,Comedy,7.3,106.3,16+,No
+S344,Sacred Games Returns,Series,USA,2017,2 Seasons,Romance,6.3,111.9,16+,No
+S345,The Crown 3,Movie,UK,2016,105 min,Comedy,5.6,92.7,13+,No
+S346,Squid Game ,Series,Spain,2020,4 Seasons,Sci-Fi,5.5,57.1,13+,No
+S347,Jawan 3,Movie,UK,2016,100 min,Comedy,8.6,82.2,18+,Yes
+S348,Queen's Gambit ,Series,France,2017,1 Seasons,Sci-Fi,8.2,160.1,16+,Yes
+S349,The Witcher ,Series,UK,2017,1 Seasons,Action,9.3,165.7,18+,Yes
+S350,Narcos 2,Movie,Spain,2017,95 min,Thriller,5.1,89,13+,No
+S351,Squid Game 2,Series,Spain,2016,5 Seasons,Documentary,7.6,142.6,13+,Yes
+S352,Stranger Things ,Series,Germany,2017,1 Seasons,Sci-Fi,9.1,158.7,16+,Yes
+S353,Dark ,Movie,USA,2024,135 min,Comedy,8.7,95,13+,Yes
+S354,Enola Holmes Reborn,Movie,UK,2017,115 min,Sci-Fi,6.3,115,13+,No
+S355,Queen's Gambit Returns,Series,India,2022,4 Seasons,Romance,9,109.7,13+,Yes
+S356,Ludo Reborn,Movie,Spain,2023,111 min,Sci-Fi,7.8,132.9,13+,Yes
+S357,Enola Holmes 3,Series,South Korea,2020,5 Seasons,Comedy,7.3,79,13+,No
+S358,Stranger Things 3,Movie,India,2019,87 min,Romance,8.6,103.8,16+,Yes
+S359,Delhi Crime 2,Movie,USA,2018,114 min,Sci-Fi,7.4,124.8,18+,No
+S360,Money Heist 2,Series,France,2020,2 Seasons,Romance,5.8,80.5,18+,No
+S361,Darlings Returns,Series,Germany,2024,5 Seasons,Thriller,5.6,107.7,16+,No
+S362,Narcos 3,Movie,Spain,2016,87 min,Sci-Fi,6,49.7,18+,No
+S363,Lucifer ,Movie,South Korea,2017,123 min,Drama,8.2,154,16+,Yes
+S364,Money Heist ,Movie,South Korea,2016,147 min,Sci-Fi,8.9,172.7,16+,Yes
+S365,Enola Holmes Returns,Series,UK,2020,2 Seasons,Thriller,9.4,150.3,16+,Yes
+S366,Lucifer 3,Series,Germany,2018,5 Seasons,Sci-Fi,8.7,92.9,18+,Yes
+S367,Emily in Paris 2,Movie,Germany,2024,130 min,Sci-Fi,8.8,145.7,18+,Yes
+S368,Money Heist 2,Movie,UK,2024,93 min,Romance,9.2,65.4,18+,Yes
+S369,Sacred Games 2,Movie,UK,2016,122 min,Drama,7,62.8,13+,No
+S370,Sacred Games 3,Movie,France,2015,86 min,Drama,6.7,107.1,13+,No
+S371,Kota Factory Reborn,Series,UK,2016,4 Seasons,Comedy,8.5,116.2,18+,Yes
+S372,Wednesday 2,Movie,USA,2019,82 min,Comedy,6.4,123.4,13+,No
+S373,The Crown 2,Movie,India,2023,91 min,Comedy,6.5,128.6,16+,No
+S374,Stranger Things Reborn,Series,India,2017,1 Seasons,Action,5.5,44.5,13+,No
+S375,Kota Factory Returns,Series,Germany,2019,3 Seasons,Action,6.1,35,18+,No
+S376,Narcos Reborn,Series,USA,2015,4 Seasons,Sci-Fi,5.4,93.7,18+,No
+S377,Queen's Gambit Reborn,Movie,USA,2018,101 min,Sci-Fi,7.9,155.3,16+,Yes
+S378,Dark 3,Series,Spain,2022,3 Seasons,Documentary,5.4,71.1,13+,No
+S379,Darlings Reborn,Series,India,2015,3 Seasons,Drama,7,62.7,16+,No
+S380,Delhi Crime ,Movie,France,2016,124 min,Sci-Fi,8.6,96.4,18+,Yes
+S381,Wednesday Returns,Series,France,2023,4 Seasons,Thriller,9.3,142.3,16+,Yes
+S382,Delhi Crime 2,Movie,UK,2021,84 min,Comedy,7.3,135.1,18+,No
+S383,Queen's Gambit 2,Series,France,2017,2 Seasons,Thriller,9.4,161,13+,Yes
+S384,Money Heist Reborn,Series,Germany,2018,2 Seasons,Thriller,8.8,78,18+,Yes
+S385,Sacred Games ,Series,South Korea,2023,3 Seasons,Comedy,8.9,113.9,13+,Yes
+S386,Queen's Gambit Returns,Series,France,2016,4 Seasons,Romance,5.7,76.9,18+,No
+S387,Dark ,Movie,France,2019,148 min,Romance,9,163.5,16+,Yes
+S388,Enola Holmes Reborn,Series,South Korea,2015,2 Seasons,Romance,6.2,44.4,18+,No
+S389,Enola Holmes ,Movie,UK,2015,140 min,Comedy,9.1,167.9,13+,Yes
+S390,The Crown 3,Series,UK,2016,2 Seasons,Drama,5.6,109.8,16+,No
+S391,The Crown 3,Movie,Spain,2018,136 min,Action,6,104.2,18+,No
+S392,Lucifer Returns,Movie,UK,2023,100 min,Documentary,5.3,82.9,16+,No
+S393,Squid Game Returns,Movie,USA,2018,105 min,Romance,8.8,76.9,16+,Yes
+S394,Money Heist 3,Series,India,2020,4 Seasons,Action,7.3,106.1,13+,No
+S395,Stranger Things 2,Series,Spain,2017,4 Seasons,Drama,7.6,77.9,13+,Yes
+S396,Ludo ,Series,USA,2015,2 Seasons,Drama,8.8,146.9,13+,Yes
+S397,Wednesday 2,Series,India,2021,5 Seasons,Action,5.1,85.2,18+,No
+S398,Stranger Things Reborn,Movie,Germany,2024,81 min,Sci-Fi,6,84.8,16+,No
+S399,Ludo Reborn,Series,France,2022,3 Seasons,Comedy,6,57.2,18+,No
+S400,Queen's Gambit Reborn,Movie,USA,2023,127 min,Romance,7.5,104.3,16+,Yes
+S401,Emily in Paris ,Series,USA,2019,3 Seasons,Comedy,8.9,79.4,18+,Yes
+S402,Emily in Paris 2,Movie,South Korea,2015,131 min,Sci-Fi,8,121.7,18+,Yes
+S403,Stranger Things Reborn,Series,UK,2021,4 Seasons,Drama,8.3,114.1,18+,Yes
+S404,Extraction 3,Movie,Germany,2023,140 min,Action,9.1,137.2,18+,Yes
+S405,Emily in Paris 2,Movie,Germany,2019,92 min,Documentary,7.1,114.4,18+,No
+S406,Narcos 2,Movie,UK,2018,125 min,Action,6,108.4,16+,No
+S407,The Crown 3,Series,South Korea,2022,1 Seasons,Drama,7.1,127.8,18+,No
+S408,Delhi Crime Returns,Movie,Spain,2023,95 min,Thriller,8.9,95.5,16+,Yes
+S409,Kota Factory ,Movie,France,2017,105 min,Documentary,6.5,128.8,16+,No
+S410,Squid Game 3,Movie,Germany,2016,142 min,Documentary,6.5,128.7,16+,No
+S411,Money Heist ,Movie,UK,2017,100 min,Comedy,7.2,118.5,13+,No
+S412,Squid Game Returns,Series,Germany,2021,4 Seasons,Comedy,9.3,100,13+,Yes
+S413,Narcos 2,Movie,UK,2020,147 min,Action,5.9,89.4,18+,No
+S414,Wednesday 2,Series,UK,2017,1 Seasons,Action,6.7,92.7,13+,No
+S415,Sacred Games ,Series,UK,2023,5 Seasons,Drama,7.4,85.1,18+,No
+S416,Squid Game 3,Movie,UK,2017,131 min,Comedy,5.1,42.7,13+,No
+S417,Extraction ,Movie,South Korea,2016,126 min,Romance,8.2,138.4,16+,Yes
+S418,Ludo Returns,Movie,USA,2016,82 min,Romance,5.2,35,16+,No
+S419,Enola Holmes ,Series,UK,2017,2 Seasons,Romance,8.1,117.1,16+,Yes
+S420,Kota Factory ,Series,South Korea,2024,5 Seasons,Action,8.2,92.5,13+,Yes
+S421,The Witcher Returns,Movie,UK,2016,143 min,Thriller,5.9,47.2,16+,No
+S422,The Witcher 2,Series,Germany,2019,2 Seasons,Drama,5.2,64.7,13+,No
+S423,Lucifer 3,Movie,USA,2016,94 min,Sci-Fi,8.8,132.3,13+,Yes
+S424,Sacred Games Returns,Movie,Germany,2019,109 min,Thriller,7.1,139.6,16+,No
+S425,Jawan ,Movie,France,2015,117 min,Thriller,6.6,100,16+,No
+S426,Dark ,Movie,France,2015,97 min,Documentary,8,60.5,16+,Yes
+S427,Jawan Returns,Movie,Germany,2020,123 min,Drama,5.8,63.9,16+,No
+S428,Ludo Reborn,Series,France,2021,2 Seasons,Action,5.5,84.9,13+,No
+S429,Bridgerton ,Series,South Korea,2024,4 Seasons,Comedy,5.8,62,16+,No
+S430,Queen's Gambit ,Movie,Germany,2022,142 min,Documentary,5.5,61.4,13+,No
+S431,Sacred Games 3,Movie,UK,2023,108 min,Action,9.4,141.4,16+,Yes
+S432,The Witcher Returns,Movie,Germany,2021,111 min,Action,7.2,107.7,18+,No
+S433,Enola Holmes 2,Movie,France,2015,100 min,Documentary,7.3,87.9,16+,No
+S434,Bridgerton ,Series,Spain,2018,3 Seasons,Documentary,9.4,54.1,13+,No
+S435,Narcos Reborn,Movie,France,2016,138 min,Comedy,7,95.2,13+,No
+S436,Lucifer Reborn,Series,USA,2015,1 Seasons,Drama,6.8,37.7,18+,No
+S437,Stranger Things ,Series,South Korea,2023,5 Seasons,Documentary,5.9,88.9,16+,No
+S438,Darlings ,Series,India,2020,5 Seasons,Documentary,8.5,119,18+,Yes
+S439,Darlings Reborn,Movie,USA,2015,123 min,Thriller,6.6,95.7,16+,No
+S440,Narcos Returns,Movie,Germany,2015,101 min,Drama,7.2,124.8,18+,No
+S441,Kota Factory ,Movie,South Korea,2018,95 min,Drama,9.2,100.2,16+,Yes
+S442,Extraction 3,Series,France,2015,5 Seasons,Thriller,5.6,102.9,16+,No
+S443,Delhi Crime Returns,Movie,Spain,2023,86 min,Sci-Fi,7.5,86.2,18+,Yes
+S444,Lucifer Returns,Movie,India,2017,93 min,Documentary,6.7,93.9,16+,No
+S445,The Witcher Reborn,Movie,South Korea,2019,130 min,Comedy,9.3,181.9,16+,Yes
+S446,Squid Game 2,Series,South Korea,2023,3 Seasons,Comedy,8.2,156.1,18+,Yes
+S447,Extraction 2,Series,South Korea,2020,2 Seasons,Sci-Fi,9.4,138.7,13+,Yes
+S448,The Witcher Returns,Series,Germany,2016,3 Seasons,Action,7.5,103.1,18+,Yes
+S449,Kota Factory Returns,Series,France,2015,5 Seasons,Drama,5.5,58.9,13+,No
+S450,Money Heist 2,Movie,France,2019,112 min,Drama,5.7,33.8,16+,No
+S451,Extraction Returns,Series,UK,2016,5 Seasons,Thriller,8.9,143.2,13+,Yes
+S452,Narcos Reborn,Series,South Korea,2015,4 Seasons,Sci-Fi,6.7,129.6,18+,No
+S453,The Crown Returns,Series,USA,2018,5 Seasons,Thriller,8.9,159.4,16+,Yes
+S454,Wednesday 3,Movie,South Korea,2018,117 min,Documentary,7,138.3,13+,No
+S455,Bridgerton 2,Movie,South Korea,2021,85 min,Action,6.9,92.1,13+,No
+S456,Bridgerton Returns,Movie,UK,2020,139 min,Documentary,8.2,60,13+,No
+S457,The Crown Returns,Series,France,2022,5 Seasons,Thriller,7.5,45.7,18+,No
+S458,The Crown Returns,Movie,India,2023,100 min,Sci-Fi,6.9,90.1,13+,No
+S459,Darlings 2,Series,Germany,2020,3 Seasons,Sci-Fi,6.3,121.3,18+,No
+S460,The Witcher Reborn,Movie,France,2016,124 min,Romance,7,130,18+,No
+S461,Queen's Gambit 2,Series,Germany,2021,1 Seasons,Thriller,6.7,87.8,16+,No
+S462,Stranger Things Returns,Series,France,2023,5 Seasons,Documentary,7,39.6,18+,No
+S463,Extraction 3,Movie,USA,2017,148 min,Romance,7.4,106.6,13+,No
+S464,Extraction Reborn,Movie,USA,2023,135 min,Documentary,7.9,150.9,18+,Yes
+S465,Squid Game ,Series,Germany,2015,1 Seasons,Comedy,5.3,40.7,16+,No
+S466,Narcos ,Movie,France,2019,132 min,Romance,6.7,96.8,16+,No
+S467,The Crown ,Movie,Germany,2023,80 min,Comedy,7.9,112.8,18+,Yes
+S468,Delhi Crime ,Movie,France,2020,144 min,Action,5.5,92.4,16+,No
+S469,Queen's Gambit ,Series,France,2021,4 Seasons,Drama,8.7,47.5,13+,No
+S470,Narcos 2,Series,Germany,2023,3 Seasons,Sci-Fi,9.3,66.6,18+,Yes
+S471,Darlings ,Movie,France,2016,85 min,Romance,5,69.7,18+,No
+S472,Narcos ,Series,India,2018,4 Seasons,Drama,9.1,161.7,13+,Yes
+S473,Bridgerton 2,Series,South Korea,2018,1 Seasons,Sci-Fi,5.8,98.6,13+,No
+S474,Narcos Reborn,Movie,South Korea,2019,88 min,Action,6.1,48.6,18+,No
+S475,Lucifer 3,Movie,India,2016,116 min,Drama,7.8,144.3,16+,Yes
+S476,Lucifer Reborn,Series,South Korea,2024,2 Seasons,Drama,7.5,78.5,16+,Yes
+S477,Kota Factory 2,Movie,UK,2018,135 min,Thriller,6.2,64.4,18+,No
+S478,The Crown Reborn,Series,Spain,2019,4 Seasons,Comedy,7.5,57.3,18+,No
+S479,Sacred Games 3,Movie,France,2023,105 min,Documentary,6.2,113.4,13+,No
+S480,Sacred Games ,Movie,South Korea,2024,131 min,Documentary,8.5,69.6,13+,Yes
+S481,Narcos 3,Series,South Korea,2017,3 Seasons,Romance,6.8,124.9,18+,No
+S482,Emily in Paris 2,Movie,South Korea,2021,126 min,Comedy,7.3,109.1,18+,No
+S483,Bridgerton Returns,Movie,Spain,2017,98 min,Sci-Fi,8.3,101.7,16+,Yes
+S484,Money Heist 2,Movie,Spain,2016,113 min,Documentary,6.7,37.8,13+,No
+S485,The Witcher 3,Series,Spain,2015,1 Seasons,Comedy,9.4,92.7,18+,Yes
+S486,The Witcher 3,Series,Germany,2024,5 Seasons,Documentary,7.6,80.9,16+,Yes
+S487,Darlings Returns,Movie,France,2023,112 min,Action,6.7,124.7,18+,No
+S488,Enola Holmes 3,Series,France,2022,4 Seasons,Documentary,9,45.9,13+,No
+S489,Jawan 2,Series,USA,2018,2 Seasons,Sci-Fi,5.8,60.5,18+,No
+S490,Dark 2,Series,France,2016,4 Seasons,Comedy,8,97.5,18+,Yes
+S491,Bridgerton Reborn,Movie,India,2017,100 min,Thriller,5.6,71.1,18+,No
+S492,Squid Game ,Movie,UK,2023,131 min,Sci-Fi,7.7,103.6,13+,Yes
+S493,Emily in Paris ,Series,Spain,2022,2 Seasons,Sci-Fi,6,67,13+,No
+S494,Delhi Crime 2,Series,Germany,2017,3 Seasons,Romance,9.2,128.3,13+,Yes
+S495,Wednesday Reborn,Movie,India,2015,105 min,Comedy,7.4,137.9,18+,No
+S496,Kota Factory 2,Movie,USA,2022,84 min,Romance,8.9,115.4,13+,Yes
+S497,Sacred Games Reborn,Movie,India,2021,146 min,Action,6.9,125,18+,No
+S498,The Witcher Reborn,Series,France,2021,3 Seasons,Sci-Fi,7.7,124.1,18+,Yes
+S499,Delhi Crime ,Series,India,2022,2 Seasons,Comedy,9.1,56.9,18+,No
+S500,Narcos Reborn,Movie,India,2015,146 min,Drama,5.5,28.1,18+,No
